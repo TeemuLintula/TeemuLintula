@@ -4,6 +4,8 @@ My name is Teemu, and I'm a IT student at metropolia Finland. Interested in tech
 - 🔭 I’m currently working on school (heart rate monitor), 「TERROR」type:【A.L.C.H.E.M.Y. on Godot, my personal Unity 2D metroidvania game
 - 🌱 I’m currently learning Electronics,  Raspberry Pi pico, Python
 - 🤔 I’m looking for help with art/music for my game
+
+my commits are not showing up before I merged my accounts D:
 <!--
 **TeemuLintula/TeemuLintula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
