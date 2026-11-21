@@ -1,11 +1,15 @@
 ## Hi there 👋
+My name is Teemu, and I'm a IT student at metropolia Finland. Interested in tech and videogames.
 
+- 🔭 I’m currently working on school (heart rate monitor), 「TERROR」type:【A.L.C.H.E.M.Y. on Godot, my personal Unity 2D metroidvania game
+- 🌱 I’m currently learning Electronics,  Raspberry Pi pico, Python
+- 🤔 I’m looking for help with art/music for my game
 <!--
 **TeemuLintula/TeemuLintula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on school (heart rate monitor), 「TERROR」type:【A.L.C.H.E.M.Y. on Godot, my personal Unity 2D metroidvania game
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
