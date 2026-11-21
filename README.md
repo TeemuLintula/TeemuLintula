@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Teemu, and I'm a IT student at metropolia Finland. Interested in tech and videogames.
 
-- 🔭 I’m currently working on school (heart rate monitor), 「TERROR」type:【A.L.C.H.E.M.Y. on Godot, my personal Unity 2D metroidvania game
+- 🔭 I’m currently working on school (heart rate monitor), 「TERROR」type:【A.L.C.H.E.M.Y. on coming to steam 2027, my personal Unity 2D metroidvania game
 - 🌱 I’m currently learning Electronics,  Raspberry Pi pico, Python
 - 🤔 I’m looking for help with art/music for my game
 
